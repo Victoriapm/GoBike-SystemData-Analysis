@@ -1,11 +1,18 @@
 # GoBike-SystemData-Analysis
-Bay Wheels's trip data Analysis using Jupyter Notebook
+## by Victoria Perez Mola
 
 ## Introduction
+Bay Wheels's trip data Analysis using Jupyter Notebook.
 This project is the final task of the Udacity Data Analyst Nano Degree.
+
+
+## Dataset
 The dataset chosen to perform the analysis is the [Ford GoBike System Data](https://www.lyft.com/bikes/bay-wheels/system-data).
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 
+## Summary of Findings
+
+## Key Insights for Presentation
 
 ## Learning objectives
 ### Why this project?
