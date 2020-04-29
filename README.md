@@ -8,6 +8,7 @@ Bay Wheels's trip data Analysis using Jupyter Notebook.
 ## Dataset
 The dataset chosen to perform the analysis is the [Ford GoBike System Data](https://www.lyft.com/bikes/bay-wheels/system-data).
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+Each trip is anonymized and includes:
 * Trip Duration (seconds)
 * Start Time and Date
 * End Time and Date
@@ -38,9 +39,6 @@ After recolecting the data and performing a data exploration, these are the main
 * The suscriber demad is high during the weekdays but has a huge decrease during weekends
 * The casual customer demand is more stable, yet it increases during weekends. 
 
-In the first part, I'll use Python visualization libraries to systematically explore a dataset, starting from plots of single variables and building up to plots of multiple variables. 
-
-In the second part, I'll produce a short presentation that illustrates interesting properties, trends, and relationships discovered in the dataset. The primary method of conveying the findings will be through transforming your exploratory visualizations from the first part into polished, explanatory visualizations.
 
 ## Key Insights for Presentation
 
